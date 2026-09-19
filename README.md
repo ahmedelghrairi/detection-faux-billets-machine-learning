@@ -31,7 +31,7 @@ Sans argument, `app.py` passe en saisie manuelle des six mesures. Le script gèr
 
 ## Les données
 
-Les fichiers de billets sont fournis dans le cadre de la formation et ne sont pas publiés. L'application attend un CSV avec six colonnes numériques : diagonal, height_left, height_right, margin_low, margin_up, length, et une colonne id facultative.
+Les données sont publiées dans le dossier `data/` : `billets.csv` (1 500 billets étiquetés ayant servi à l'entraînement) et `billets_production.csv` (le fichier de test fourni pour la démonstration finale).
 
 ## Limites assumées
 
